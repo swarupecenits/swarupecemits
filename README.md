@@ -6,14 +6,14 @@
 <!-- Top Languages Card -->
 
 <!-- GitHub Streak Stats Card -->
-<p align="center">
+<p align="left">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170" height="190">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarupecenits&theme=radical" alt="GitHub Streak Stats" />
   
 </p>
 
 
-<div align="center">
+<div align="left">
   <img  style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=swarupecenits&show_icons=true&theme=radical" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarupecenits&layout=compact&langs_count=10&theme=radical" height="180" alt="languages graph"  />
 </div>
