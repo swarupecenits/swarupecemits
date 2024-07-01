@@ -44,28 +44,134 @@
 - ⚡ Fun fact **I love exploring the intersection of technology and space exploration.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/swarup_chanda_03" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="swarup_chanda_03" height="30" width="40" /></a>
-<a href="https://codepen.io/swarup-chanda" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="swarup-chanda" height="30" width="40" /></a>
-<a href="https://twitter.com/_swarup_chanda" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_swarup_chanda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swarup-chanda-23053724a" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swarup-chanda-23053724a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22041444" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22041444" height="30" width="40" /></a>
-<a href="https://codesandbox.com/swarupecenits" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="swarupecenits" height="30" width="40" /></a>
-<a href="https://kaggle.com/swarupchanda2003" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swarupchanda2003" height="30" width="40" /></a>
-<a href="https://fb.com/swarup.chanda.984" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swarup.chanda.984" height="30" width="40" /></a>
-<a href="https://instagram.com/this_is_swarup_" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this_is_swarup_" height="30" width="40" /></a>
-<a href="https://dribbble.com/swarup2002" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="swarup2002" height="30" width="40" /></a>
-<a href="https://www.behance.net/swarupchanda" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="swarupchanda" height="30" width="40" /></a>
-<a href="https://hashnode.com/@swarup03" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@swarup03" height="30" width="40" /></a>
-<a href="https://medium.com/@swarupchanda1963" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swarupchanda1963" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/this_is_swarup" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="this_is_swarup" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/swarupchanda19" target="blank"><img style="padding: 5px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swarupchanda19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/swarupchanda1963" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swarupchanda1963" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/swarupchanda" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="swarupchanda" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swarupchanda1963" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swarupchanda1963" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/swarupchanda1963" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="swarupchanda1963" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/swarupchae7md" target="blank"><img style="padding: 5px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swarupchae7md" height="30" width="40" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://dev.to/swarup_chanda_03" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="28" height="28" alt="dev.to" />
+      </a>
+      <br>Dev.to
+    </td>
+    <td align="center" width="96">
+      <a href="https://codepen.io/swarup-chanda" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="28" height="28" alt="CodePen" />
+      </a>
+      <br>CodePen
+    </td>
+    <td align="center" width="96">
+      <a href="https://twitter.com/_swarup_chanda" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="28" height="28" alt="Twitter" />
+      </a>
+      <br>Twitter
+    </td>
+    <td align="center" width="96">
+      <a href="https://linkedin.com/in/swarup-chanda-23053724a" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="28" height="28" alt="LinkedIn" />
+      </a>
+      <br>LinkedIn
+    </td>
+    <td align="center" width="96">
+      <a href="https://stackoverflow.com/users/22041444" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="28" height="28" alt="Stack Overflow" />
+      </a>
+      <br>Stack Overflow
+    </td>
+    <td align="center" width="96">
+      <a href="https://codesandbox.io/s/warupecenits" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" width="28" height="28" alt="CodeSandbox" />
+      </a>
+      <br>CodeSandbox
+    </td>
+    <td align="center" width="96">
+      <a href="https://kaggle.com/swarupchanda2003" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="28" height="28" alt="Kaggle" />
+      </a>
+      <br>Kaggle
+    </td>
+    <td align="center" width="96">
+      <a href="https://facebook.com/swarup.chanda.984" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="28" height="28" alt="Facebook" />
+      </a>
+      <br>Facebook
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://instagram.com/this_is_swarup_" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="28" height="28" alt="Instagram" />
+      </a>
+      <br>Instagram
+    </td>
+    <td align="center" width="96">
+      <a href="https://dribbble.com/swarup2002" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" width="28" height="28" alt="Dribbble" />
+      </a>
+      <br>Dribbble
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.behance.net/swarupchanda" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="28" height="28" alt="Behance" />
+      </a>
+      <br>Behance
+    </td>
+    <td align="center" width="96">
+      <a href="https://hashnode.com/@swarup03" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" width="28" height="28" alt="Hashnode" />
+      </a>
+      <br>Hashnode
+    </td>
+    <td align="center" width="96">
+      <a href="https://medium.com/@swarupchanda1963" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="28" height="28" alt="Medium" />
+      </a>
+      <br>Medium
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.youtube.com/channel/UCDuvuuT8Rtgw1JPz84APl5A" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="28" height="28" alt="YouTube" />
+      </a>
+      <br>YouTube
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.codechef.com/users/swarupchanda19" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="28" height="28" alt="CodeChef" />
+      </a>
+      <br>CodeChef
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.hackerrank.com/swarupchanda1963" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="28" height="28" alt="HackerRank" />
+      </a>
+      <br>HackerRank
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://codeforces.com/profile/swarupchanda" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="28" height="28" alt="Codeforces" />
+      </a>
+      <br>Codeforces
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.leetcode.com/swarupchanda1963" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="28" height="28" alt="LeetCode" />
+      </a>
+      <br>LeetCode
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.hackerearth.com/swarupchanda1963" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="28" height="28" alt="HackerEarth" />
+      </a>
+      <br>HackerEarth
+    </td>
+    <td align="center" width="96">
+      <a href="https://auth.geeksforgeeks.org/user/swarupchae7md" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="28" height="28" alt="GeeksforGeeks" />
+      </a>
+      <br>GeeksforGeeks
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
