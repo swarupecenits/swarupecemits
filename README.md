@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/swarup-chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="swarup-chanda" height="30" width="40" /></a>
 <a href="https://dev.to/swarup_chanda_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="swarup_chanda_03" height="30" width="40" /></a>
+<a href="https://codepen.io/swarup-chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="swarup-chanda" height="30" width="40" /></a>
 <a href="https://twitter.com/_swarup_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_swarup_chanda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swarup-chanda-23053724a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swarup-chanda-23053724a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22041444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22041444" height="30" width="40" /></a>
