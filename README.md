@@ -72,9 +72,10 @@
 
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarupecenits" alt="swarupecenits" /></a> </p>
+<div style="text-align: center;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=swarupecenits&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" alt="swarupecenits's GitHub Profile Trophy" />
+  </a>
+</div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
