@@ -5,8 +5,11 @@
 
 <!-- GitHub Streak Stats Card -->
 <p align="center">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170" height="190">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarupecenits&theme=radical" alt="GitHub Streak Stats" />
+  
 </p>
+
 
 <div align="center">
   <img  style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=swarupecenits&show_icons=true&theme=radical" height="180" alt="stats graph"  />
