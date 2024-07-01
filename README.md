@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Swarup Chanda</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Swarup Chanda ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3 align="center">A passionate MERN stack developer from India with a focus on robotics development and programming, and a keen interest in machine learning.</h3>
+
 
 <!-- Top Languages Card -->
 
@@ -72,7 +74,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarupecenits" alt="swarupecenits" /></a> </p>
 
+<br clear="both">
 
-
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
