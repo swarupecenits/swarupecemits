@@ -44,8 +44,8 @@
 - ⚡ Fun fact **I love exploring the intersection of technology and space exploration.**
 
 <h3 align="left">Connect with me:</h3>
-<table align="center">
-  <tr>
+<table>
+  <tr  align="center">
     <td align="center" width="96">
       <a href="https://dev.to/swarup_chanda_03" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="28" height="28" alt="dev.to" />
