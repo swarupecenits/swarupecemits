@@ -13,25 +13,22 @@
 </p>
 
 
-<div align="left">
-  <img  style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=swarupecenits&show_icons=true&theme=radical" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarupecenits&layout=compact&langs_count=10&theme=radical" height="180" alt="languages graph"  />
-</div>
 
 
 
 
 
 
-- 🔭 I’m currently working on [AI web application](https://ai-summarizer-swarup.netlify.app/)
 
-- 🌱 I’m currently learning **Advanced machine learning techniques and deep learning frameworks.**
+- 🔭 I’m currently working on Microsoft as a Software Development Enginneer
+
+- 🌱 I’m currently learning **Advanced Agentic AI Techniques and Large Language Models**
 
 - 👯 I’m looking to collaborate on **Innovative AI, Machine Learning and Robotics projects.**
 
 - 🤝 I’m looking for help with **Optimizing algorithms for real-time data processing.**
 
-- 👨‍💻 All of my projects are available at [https://swarup-chanda.vercel.app](https://swarup-chanda.vercel.app)
+- 👨‍💻 All of my projects are available at [https://swarupchanda.co.in](https://swarupchanda.co.in)
 
 - 📝 I regularly write articles on Medium [https://medium.com/@swarupchanda1963](https://medium.com/@swarupchanda1963)
 
@@ -378,11 +375,5 @@
 </table>
 
 <br/>
-
-<div style="text-align: center;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=swarupecenits&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" alt="swarupecenits's GitHub Profile Trophy" />
-  </a>
-</div>
 
 
